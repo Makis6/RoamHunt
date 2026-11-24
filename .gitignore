@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# roamhunt outputs (loot / artefacts - never commit these)
+*.mk
+*.pfx
+*.crt
+*.key
+*.hash
+*.masterkeys
+*.creds
+loot/
